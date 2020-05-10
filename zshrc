@@ -1,6 +1,6 @@
 # users generic .zshrc file for zsh(1)
 
-##then change directory,auto ls
+##Auto ls command when Changing Directory
 autoload -Uz add-zsh-hook
 autoload -Uz vcs_info
 chpwd() {
